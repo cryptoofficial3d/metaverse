@@ -5,7 +5,7 @@ const Navbar = ({ web3Handler, account }) => {
         <nav className="flex-between">
             <a
                 className='flex'
-                href="http://www.dappuniversity.com/bootcamp"
+                href="http://Google.com" // for example 
                 target="_blank"
                 rel="noopener noreferrer"
             >
